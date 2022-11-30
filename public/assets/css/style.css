@@ -1,3 +1,36 @@
+/**
+* Template Name: Lumia - v4.9.1
+* Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5faee3;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -322,7 +355,7 @@
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../public/assets/img/hero-bg.jpg") center center;
+  background: url("../img/hero-bg.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
@@ -401,6 +434,9 @@
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+section {
+  padding: 60px 0;
+}
 
 .section-bg {
   background-color: #f7fbfe;

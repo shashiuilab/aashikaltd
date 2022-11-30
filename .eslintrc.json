@@ -1,3 +1,11 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "eslint.options": { 
+    "configFile": "",
+    "eslint.run": "onSave",
+    "eslint.autoFixOnSave": "on"
+  },
+  "eslint.workingDirectories": [
+    "./components", "./pages"
+  ]
 }
