@@ -6,7 +6,7 @@
 */
 (function() {
   "use strict";
-
+  alert("AASHIKA LTD);
   /**
    * Easy selector helper function
    */
