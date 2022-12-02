@@ -1,3 +1,7 @@
+/* eslint-disable @next/next/no-page-custom-font */
+/* eslint-disable @next/next/google-font-display */
+/* eslint-disable @next/next/no-css-tags */
+/* eslint-disable @next/next/no-sync-scripts */
 import React from 'react';
 import Head from 'next/head';
 import Navigation from './Navigation';
