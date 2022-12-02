@@ -24,7 +24,7 @@ export default function Home() {
           <li><Link className="nav-link scrollto" href="#testimonials">Testimonials</Link></li>
           <li><Link className="nav-link scrollto" href="#contact">Contact</Link></li>
         </ul>
-        <i className="bi bi-list mobile-nav-toggle"></i>
+        <Link href="#"><i className="bi bi-list mobile-nav-toggle"></i></Link>
       </nav>
 
       <div className="header-social-links d-flex align-items-center">
