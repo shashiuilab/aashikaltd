@@ -6,7 +6,6 @@
 */
 (function() {
   "use strict";
-  alert("aashikaltd");
   /**
    * Easy selector helper function
    */
